@@ -27,8 +27,6 @@
 ! Input_rand_for_mock_dir = outdir_galmockrand
 ! Output_dir       = the output directory of the power spectrum of survey data.
 ! Output_mock_dir  = the output directory of the power spectrum of mock data.
-! The above 14 variables are the only things you need to modify in this code.
-! Do not modify the rest of the code. 
 !------------------------------------------------------------------------------
 ! Define the Variables
 program denmomPS!
