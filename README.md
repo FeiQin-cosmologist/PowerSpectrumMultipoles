@@ -5,7 +5,7 @@ https://zenodo.org/record/6640513
 
 Users will need to cite our papers:
 
-Paper 1: Howlett 2019:
+Paper 1: Howlett 2019: 
 https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.5209H/abstract
 
 Paper 2: Qin et al. 2019b:
