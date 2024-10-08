@@ -17,6 +17,6 @@ submitted:
 
 
 
-SDSS data: Howlett et al. 2022: 
+SDSSv data: Howlett et al. 2022: 
 https://ui.adsabs.harvard.edu/abs/2022MNRAS.515..953H/abstract
 
