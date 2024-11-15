@@ -13,10 +13,10 @@ Paper 2: Qin et al. 2019b:
 https://ui.adsabs.harvard.edu/abs/2019MNRAS.487.5235Q/abstract
 
 Paper 3: Qin et al. 2024:
-submitted:
+https://arxiv.org/abs/2411.09571
 
- 
+Window Function Convolution: Blake et al. 2018:
+https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.5168B/abstract
 
 SDSSv data: Howlett et al. 2022: 
 https://ui.adsabs.harvard.edu/abs/2022MNRAS.515..953H/abstract
-
