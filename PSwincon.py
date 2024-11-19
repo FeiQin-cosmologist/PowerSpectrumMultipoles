@@ -207,8 +207,8 @@ def Conv_Fun(nx,ny,nz,lx,ly,lz,w,Win,w2,Win2,kmin,kmax,nkbin,kmin1,kmax1,pk,PSty
                     Slmlm  = np.fft.fftn( nw *Ylm_r*np.conj(Ylm_rp) )
                     Slmlm2 = np.fft.fftn( nw2*Ylm_r*np.conj(Ylm_rp) )
                     PY     = np.fft.fftn( np.conj(Ylm_kp) * Pl )
-                    nS     = np.fft.fftn(nwb * np.conj(Slmlm))
-                    nS2    = np.fft.fftn(nwb2 * np.conj(Slmlm2))
+                    nS     = np.fft.fftn(nwb2 * np.conj(Slmlm))
+                    nS2    = np.fft.fftn(nwb * np.conj(Slmlm2))
                     pkcon  = pkcon + np.sqrt(norm*norm2) * np.real( Ylm_k * np.fft.ifftn( PY* 0.5*(nS+nS2) ) )  
         pkc ,nmodes = binpk(pkcon,nx,ny,nz,lx,ly,lz,kmin,kmax,nkbin)
         if(PStype!='crs'):
