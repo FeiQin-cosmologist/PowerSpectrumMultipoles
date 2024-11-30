@@ -20,3 +20,7 @@ https://ui.adsabs.harvard.edu/abs/2018MNRAS.479.5168B/abstract
 
 SDSSv data: Howlett et al. 2022: 
 https://ui.adsabs.harvard.edu/abs/2022MNRAS.515..953H/abstract
+
+
+Now, please pay attention to the updated version of the power spectrum code which can be found in: 
+https://github.com/FeiQin-cosmologist/Galaxy_Power_Spectrum
