@@ -24,7 +24,7 @@ https://ui.adsabs.harvard.edu/abs/2022MNRAS.515..953H/abstract
 
 ########################## 
 
-Important notice:  please pay attention to the updated version of the power spectrum code which can be found in:
+Important tips :  please pay attention to the updated version of the power spectrum code which can be found in:
 
 https://github.com/FeiQin-cosmologist/Galaxy_Power_Spectrum
 
